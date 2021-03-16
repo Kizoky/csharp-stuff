@@ -4,6 +4,9 @@
 // Added a bunch of checks to warn the user if something's gone wrong
 // Program exits automatically after 3 seconds, or if you press any key
 
+// Note: This does NOT create legit Product IDs, the are completely randomized
+// Use it at your own risk!
+
 using System;
 using System.IO;
 using Microsoft.Win32;
